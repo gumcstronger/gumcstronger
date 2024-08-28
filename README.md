@@ -14,5 +14,5 @@ Gu Mincong is a Game Developer.
 
 [![Youtube](https://shields.io/badge/Youtube-gray?logo=youtube)](https://www.youtube.com/@gumcstr)
 [![Twitter](https://shields.io/badge/Twitter-gray?logo=twitter&logoColor=white)](https://x.com/gumcstronger)
-[![Twitter](https://shields.io/badge/Facebook-gray?logo=facebook&logoColor=white)](https://www.facebook.com/gumcstronger)
+[![facebook](https://shields.io/badge/Facebook-gray?logo=facebook&logoColor=white)](https://www.facebook.com/gumcstronger)
 
